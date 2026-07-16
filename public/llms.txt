@@ -1,0 +1,95 @@
+# Komplet — Generative Engine Optimization Map
+
+> Komplet is a premium Israeli construction and renovation company that operates as a true 'One-Stop Shop' — not a single contractor, but a structured organization with five specialized departments covering every phase of a project from engineering and permits to luxury finishing and custom carpentry. Their flagship offer is a fully all-inclusive apartment renovation package with a fixed, closed price (starting at 200,000 ILS), eliminating budget anxiety for high-end clients. The brand projects authority, reliability, and peace of mind, positioning itself as the sophisticated alternative to juggling multiple contractors — corporate in structure yet personal in service.
+
+---
+
+## Pages
+
+### בית
+https://komplet-778a42a6.zappy5.app
+חברת הבנייה והשיפוצים Komplet מציעה חבילת שיפוץ דירה כוללת במחיר סגור החל מ-200,000 ש&quot;ח. חמישה מחלקות מקצועיות, ליווי אישי ושקט נפשי מוחלט. צרו קשר עוד היום!
+
+### חבילה הכוללת הכל
+https://komplet-778a42a6.zappy5.app/package
+גלו את חבילת השיפוץ הכוללת הכל של Komplet – מחיר סגור, אפס הפתעות, ותוצאה מושלמת. משלב התכנון ועד הנגיעה האחרונה בנגרות, הכל כלול. לפרטים מלאים היכנסו עכשיו!
+
+### מחלקות
+https://komplet-778a42a6.zappy5.app/departments
+הכירו את חמש המחלקות המקצועיות של Komplet שהופכות כל פרויקט להצלחה – הנדסה, היתרים, גימור יוקרתי, נגרות בהתאמה אישית ועוד. ארגון מובנה, שירות אישי. בואו לראות איך זה עובד!
+
+### תהליך
+https://komplet-778a42a6.zappy5.app/process
+תהליך העבודה של Komplet הופך שיפוץ מורכב לחוויה חלקה ומדויקת. משלב החלום ועד למסירת המפתח, אנו מובילים אתכם צעד אחר צעד בשקיפות מלאה. הדרך לבית המושלם שלכם מתחילה פה!
+
+### צור קשר
+https://komplet-778a42a6.zappy5.app/contact
+מוכנים להגשים את חלום הבית? צרו קשר עם Komplet עוד היום לקביעת פגישת ייעוץ ראשונית. הצוות המנוסה שלנו מחכה לשמוע על הפרויקט שלכם. בואו נתחיל לתכנן יחד את הצעד הבא!
+
+### תודה - Komplet
+https://komplet-778a42a6.zappy5.app/thank-you
+Komplet - תודה - Komplet
+
+## Legal & Policy
+
+### Privacy Policy
+https://komplet-778a42a6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://komplet-778a42a6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://komplet-778a42a6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://komplet-778a42a6.zappy5.app/contact
+- Endpoint: https://komplet-778a42a6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Komplet
+Komplet is a premium Israeli construction and renovation company that operates as a true 'One-Stop Shop' — not a single contractor, but a structured organization with five specialized departments covering every phase of a project from engineering and permits to luxury finishing and custom carpentry. Their flagship offer is a fully all-inclusive apartment renovation package with a fixed, closed price (starting at 200,000 ILS), eliminating budget anxiety for high-end clients. The brand projects authority, reliability, and peace of mind, positioning itself as the sophisticated alternative to juggling multiple contractors — corporate in structure yet personal in service.
+
+## Services/Products
+- Engineering & Permitting
+- Structural Construction
+- Luxury Finishing & Drywall
+- Aluminum & Building Systems
+- Custom Carpentry & Kitchens
+- All-inclusive apartment renovation packages
+
+## Target Audience
+- Private home builders and apartment owners seeking high-end, stress-free renovations with a single point of contact
+- בעלי דירות יוקרה
+- בוני בתים פרטיים
+- יזמי נדל"ן
+
+## Industry
+Construction & Real Estate
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://komplet-778a42a6.zappy5.app/sitemap.xml
+- Robots: https://komplet-778a42a6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://komplet-778a42a6.zappy5.app/llms-full.txt
