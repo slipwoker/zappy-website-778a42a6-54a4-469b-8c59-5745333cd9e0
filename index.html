@@ -779,10 +779,10 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 <a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -1263,10 +1263,10 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Full-bleed background image -->
   <div class="index-hero-section__bg-wrapper">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Luxury apartment renovation site at dusk in Israel, showing refined construction progress with warm interior lighting spilling onto polished concrete floors, architectural lighting accents, subtle blueprint-like grid lines projected on a wall, a clean organized workspace with premium materials and tools, cinematic wide-angle composition, dark graphite and warm brass tones, photorealistic architectural photography style" width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="אתר שיפוץ דירת יוקרה בשעת בין ערביים, תאורה אדריכלית חמה על רצפת בטון מלוטשת" class="index-hero-section__bg-img" decoding="async">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Luxury apartment renovation site at dusk in Israel, showing refined construction progress with warm interior lighting spilling onto polished concrete floors, architectural lighting accents, subtle blueprint-like grid lines projected on a wall, a clean organized workspace with premium materials and tools, cinematic wide-angle composition, dark graphite and warm brass tones, photorealistic architectural photography style" width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="אתר שיפוץ דירת יוקרה בשעת בין ערביים, תאורה אדריכלית חמה על רצפת בטון מלוטשת" class="index-hero-section__bg-img" data-hero-background="true" data-element-type="image" data-element-id="img-1784171312675-o7coicfbr" decoding="async">
   </div>
 
   <!-- Scrim overlay for text readability -->
@@ -1277,13 +1277,13 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     <div class="index-hero-section__container">
       <div class="index-hero-section__content">
         <!-- Micro-label -->
-        <span class="index-hero-section__micro-label">שליטה מלאה בשיפוץ — תחת קורת גג אחת</span>
+        <p><span class="index-hero-section__micro-label">שליטה מלאה בשיפוץ — תחת קורת גג אחת</span>
 
-        <!-- H1 Main headline -->
-        <h1 class="index-hero-section__headline">שיפוץ יוקרה מלא<br>תחת חברה אחת מסודרת</h1>
+        
+        </p><!-- H1 Main headline --><h1 class="index-hero-section__headline">שיפוץ יוקרה מלא<br>תחת חברה אחת מסודרת</h1>
 
         <!-- H3 Subtitle -->
-        <h3 class="index-hero-section__subtitle">הנדסה, היתרים, בנייה, גמר, מערכות, נגרות וניהול פרויקט — בתהליך אחד מבוקר</h3>
+        <h3 class="index-hero-section__subtitle" style="">הנדסה, היתרים, בנייה, גמר, מערכות, נגרות וניהול פרויקט — בתהליך אחד מבוקר.&nbsp;<span style="font-size: 1.25rem; letter-spacing: -0.02em;">החברה מתמחה בבניית ממ"דים (מרחבים מוגנים) במסלול מהיר, הוספת מרפסות שמש, והרחבות בנייה מהיסוד ועד הגמר, כולל ליווי הנדסי ואישורי הג"א/פיקוד העורף.</span><br></h3>
 
         <!-- Body paragraph -->
         <p class="index-hero-section__description">קומפלט מציעה את האלטרנטיבה המתוחכמת לתיאום מול עשרות קבלנים: היקף עבודה סגור, מחיר קבוע מראש, וכתובת אחת אחראית — מהריסה ועד מפתח.</p>
