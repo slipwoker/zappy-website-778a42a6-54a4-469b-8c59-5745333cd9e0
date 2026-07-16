@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://komplet-778a42a6.zappy5.app
+https://example.com
 חברת הבנייה והשיפוצים Komplet מציעה חבילת שיפוץ דירה כוללת במחיר סגור החל מ-200,000 ש&quot;ח. חמישה מחלקות מקצועיות, ליווי אישי ושקט נפשי מוחלט. צרו קשר עוד היום!
 
 ### חבילה הכוללת הכל
-https://komplet-778a42a6.zappy5.app/package
+https://example.com/package
 גלו את חבילת השיפוץ הכוללת הכל של Komplet – מחיר סגור, אפס הפתעות, ותוצאה מושלמת. משלב התכנון ועד הנגיעה האחרונה בנגרות, הכל כלול. לפרטים מלאים היכנסו עכשיו!
 
 ### מחלקות
-https://komplet-778a42a6.zappy5.app/departments
+https://example.com/departments
 הכירו את חמש המחלקות המקצועיות של Komplet שהופכות כל פרויקט להצלחה – הנדסה, היתרים, גימור יוקרתי, נגרות בהתאמה אישית ועוד. ארגון מובנה, שירות אישי. בואו לראות איך זה עובד!
 
 ### תהליך
-https://komplet-778a42a6.zappy5.app/process
+https://example.com/process
 תהליך העבודה של Komplet הופך שיפוץ מורכב לחוויה חלקה ומדויקת. משלב החלום ועד למסירת המפתח, אנו מובילים אתכם צעד אחר צעד בשקיפות מלאה. הדרך לבית המושלם שלכם מתחילה פה!
 
 ### צור קשר
-https://komplet-778a42a6.zappy5.app/contact
+https://example.com/contact
 מוכנים להגשים את חלום הבית? צרו קשר עם Komplet עוד היום לקביעת פגישת ייעוץ ראשונית. הצוות המנוסה שלנו מחכה לשמוע על הפרויקט שלכם. בואו נתחיל לתכנן יחד את הצעד הבא!
 
 ### תודה - Komplet
-https://komplet-778a42a6.zappy5.app/thank-you
+https://example.com/thank-you
 Komplet - תודה - Komplet
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://komplet-778a42a6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://komplet-778a42a6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://komplet-778a42a6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://komplet-778a42a6.zappy5.app/contact
-- Endpoint: https://komplet-778a42a6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Construction & Real Estate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://komplet-778a42a6.zappy5.app/sitemap.xml
-- Robots: https://komplet-778a42a6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://komplet-778a42a6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
